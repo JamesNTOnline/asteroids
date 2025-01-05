@@ -1,0 +1,10 @@
+add scoring 
+lives - no instant game over 
+effects; bullet impact, explosions 
+accel/decel
+screen wraparound 
+background/art 
+lumpy asteroids 
+hitbox fixes 
+powerups, new weapons 
+
